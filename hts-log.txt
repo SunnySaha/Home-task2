@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Aug 2020 17:31:44 at https://matchthemes.com/demohtml/caverta/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://matchthemes.com/demohtml/caverta/index.html -O1 "F:\Sunny's Documents\Restaurant_4th" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:33:10	Warning: 	Retry after error 409 (Conflict) at link https://matchthemes.com/demohtml/caverta/contact.html (from https://matchthemes.com/demohtml/caverta/index.html)
+17:33:10	Warning: 	Retry after error 409 (Conflict) at link https://matchthemes.com/demohtml/caverta/contact-2.html (from https://matchthemes.com/demohtml/caverta/index.html)
+17:33:15	Error: 	"Not Found" (404) at link https://matchthemes.com/demohtml/caverta/js/owl-carousel/owl.video.play.png (from https://matchthemes.com/demohtml/caverta/js/owl-carousel/owl.carousel.min.css)
+17:33:15	Warning: 	Retry after error 409 (Conflict) at link https://matchthemes.com/demohtml/caverta/images/pages-top/contact-us.jpg (from https://matchthemes.com/demohtml/caverta/style.css)
+17:33:15	Warning: 	Retry after error 409 (Conflict) at link https://matchthemes.com/demohtml/caverta/contact.html (from https://matchthemes.com/demohtml/caverta/index.html)
+17:33:15	Warning: 	Retry after error 409 (Conflict) at link https://matchthemes.com/demohtml/caverta/contact-2.html (from https://matchthemes.com/demohtml/caverta/index.html)
+17:33:15	Error: 	"Not Found" (404) at link https://matchthemes.com/demohtml/caverta/popper.js (from https://matchthemes.com/demohtml/caverta/css/bootstrap/js/bootstrap.min.js)
+17:33:16	Warning: 	Retry after error 409 (Conflict) at link https://matchthemes.com/demohtml/caverta/images/pages-top/contact-us.jpg (from https://matchthemes.com/demohtml/caverta/style.css)
+17:33:16	Error: 	"Conflict" (409) after 2 retries at link https://matchthemes.com/demohtml/caverta/contact.html (from https://matchthemes.com/demohtml/caverta/index.html)
+17:33:16	Error: 	"Conflict" (409) after 2 retries at link https://matchthemes.com/demohtml/caverta/contact-2.html (from https://matchthemes.com/demohtml/caverta/index.html)
+17:33:17	Error: 	"Conflict" (409) after 2 retries at link https://matchthemes.com/demohtml/caverta/images/pages-top/contact-us.jpg (from https://matchthemes.com/demohtml/caverta/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 33 seconds : 152 links scanned, 140 files written (11656057 bytes overall) [8891366 bytes received at 95606 bytes/sec], 4450698 bytes transferred using HTTP compression in 69 files, ratio 34%, 38.0 requests per connection
+(5 errors, 6 warnings, 0 messages)
